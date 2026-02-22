@@ -1,0 +1,5 @@
+===== FILE ASLI: .eslintrc.json =====
+
+{
+  "extends": "next"
+}

@@ -1,0 +1,8 @@
+===== FILE ASLI: database.json =====
+
+
+{
+  "transactions": [],
+  "history": [],
+  "losses": []
+}
